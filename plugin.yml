@@ -1,0 +1,7 @@
+name: Campfire
+main: com.psychobit.campfire.Campfire
+version: 3.0
+commands:
+   campfire:
+      description: Campfire PvP Protection
+      usage: /<command> <action> ...
